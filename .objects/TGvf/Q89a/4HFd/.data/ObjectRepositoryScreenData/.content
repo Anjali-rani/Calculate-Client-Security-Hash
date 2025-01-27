@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="LT-kPKP7vkO7gf9j9_fX-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" Url="acme-test.uipath.com/work-items/104643620" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
